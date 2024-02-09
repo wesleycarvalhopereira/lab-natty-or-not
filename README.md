@@ -8,7 +8,10 @@ Vamos explorar juntos o potencial dessas tecnologias incríveis e descobrir como
 Descubra o potencial das Inteligências Artificiais Generativas em Multimídia nesta jornada única. Explore narrativas visuais, áudio e textuais criadas por IA, testemunhando sua capacidade de produzir imagens deslumbrantes, vozes envolventes e apresentações cativantes. Sua imersão nesta criação de obras de arte digitais será maravilhosa, utilizando algoritmos avançados e dados humanos para expandir os limites da criatividade. Prepare-se para se surpreender e redefinir sua compreensão da interseção entre tecnologia e arte.
 
 ## 🤖 Tecnologias Utilizadas
-Aqui foram usadas GPT, Leonardo Ia, ElevenLabs e Heygen.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual;
+- IA Generativa **[Eleven](https://elevenlabs.io)** para roteirização;
+- IA Generativa **[HeyGen](https://www.heygen.com/)** para criar o vídeo;
 
 ## 🧐 Processo de Criação
 
