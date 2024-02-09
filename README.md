@@ -10,6 +10,7 @@ Descubra o potencial das Inteligências Artificiais Generativas em Multimídia n
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual;
+- IA Generativa **[Copilot/Design](https://www.bing.com/images/create))** para criar a arte visual;
 - IA Generativa **[Eleven](https://elevenlabs.io)** para roteirização;
 - IA Generativa **[HeyGen](https://www.heygen.com/)** para criar o vídeo;
 
@@ -19,9 +20,8 @@ A experiência de criar "Explorando Narrativas Visuais, Áudio e Textuais" foi v
 
 ## 🚀 Resultados
 Aqui está o ebook que engloba todo o projeto, contando com o uso de inteligência artificial em texto, áudio, imagem e vídeo.
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](https://gamma.app/docs/Introducao-as-Inteligencias-Artificiais-Generativas-2fwcawib0pi7xxt)
+- [Vídeo (Avatar Virtual)](https://drive.google.com/file/d/1uRtBcM-k7eGEE0ts3NRtasEILlmeigUS/view)
 
 ## 💭 Reflexão (**Descobrindo a Alma nas Máquinas**)
 Ao mergulhar neste projeto, não pude deixar de sentir uma mistura de admiração e maravilha diante do poder das inteligências artificiais generativas. Enquanto explorava as narrativas visuais, áudio e textuais criadas por essas tecnologias, fui tocado pela profunda capacidade de expressão e criatividade da IA.
